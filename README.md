@@ -9,8 +9,3 @@ bash bash_lib/setup.sh
 ```bash
 bash bash_lib/shell.sh
 ```
-<<<<<<< HEAD
-=======
-
-# export api key
->>>>>>> origin/master
