@@ -18,7 +18,7 @@ brew cask reinstall docker
 
 open /Applications/Docker.app
 
-echo("Waiting for docker to open...")
+echo "Waiting for docker to open..."
 sleep 30
 
 docker login
