@@ -14,7 +14,10 @@ echo <you api key> > api_data_gov.key
 
 
 
-### Start development shell
+### Start Jupyter Service
 ```bash
 bash bash_lib/shell.sh
 ```
+
+### Naviate to:
+[127.0.0.1:10000](127.0.0.1:10000)
